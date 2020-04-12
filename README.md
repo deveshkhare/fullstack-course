@@ -5,7 +5,6 @@ This repository contains all of the example source code used in the Coursera.org
 
 [Enroll now! It's free!](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-
 ## Frequently Asked Questions
 Please check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:
 
